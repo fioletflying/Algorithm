@@ -1,5 +1,7 @@
 # Prerequisites
 *.d
+*.vscode
+*.ipynb_checkpoints
 
 # Compiled Object files
 *.slo
